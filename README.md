@@ -34,9 +34,37 @@ Note, the print is the section and the range of letters from a-l, excluding c, d
 
 It continues to ask for all sections that are not "all assigned"
 
-At the end, this is the output: 
+At the end, this is the input and output you would see on the console: 
 
-<img src="https://github.com/pbanuru/Unassigned-Letters/blob/main/example.jpg" width=50% height=50%>
+    Enter the last problem for each exercise.
+    
+    4.1.5: l
+    4.1.6: e
+    4.2.4: e
+    4.3.2: k
+    4.3.4: i
+    4.4.2: j
+    
+    <><><> Problems Not Assigned:
+    4.1.1: none
+    4.1.3: none
+    4.1.5: a, b, e, f, h, i, j, l
+    4.1.6: b, d, e
+    4.2.2: none
+    4.2.4: a, b, e
+    4.3.2: a, b, c, e, f, h, i
+    4.3.4: a, b, c, e, f, h, i
+    4.3.6: none
+    4.4.1: none
+    4.4.2: a, c, d, f, h, i, j
+    4.5.1: none
+    4.5.2: none
+    4.5.5: none
+    4.5.7: none
+    4.6.1: none
+    4.6.5: none
+    
+    Enter anything to exit
 
 You can change the ([hw.txt)](https://github.com/pbanuru/Unassigned-Letters/blob/main/hw.txt) to match your needs, as long as it is in the proper form: 
 something section letters
