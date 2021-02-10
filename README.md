@@ -34,7 +34,7 @@ Note, the print is the section and the range of letters from a-l, excluding c, d
 It continues to ask for all sections that are not "all assigned"
 
 At the end, this is the output:
-![Output: ](https://github.com/pbanuru/Unassigned-Letters/blob/main/example.png)
+![Output: ](https://github.com/pbanuru/Unassigned-Letters/blob/main/example.jpg)
 
 You can change the ([hw.txt)](https://github.com/pbanuru/Unassigned-Letters/blob/main/hw.txt) to match your needs, as long as it is in the proper form: 
 something section letters
