@@ -32,7 +32,7 @@ and prints "4.1.5: a, b, e, f, h, i, j, l"
 
 Note, the print is the section and the range of letters from a-l, excluding c, d, g, and k. It excludes the assigned letters.
 
-It continues to ask for all sections that are not "all assigned"
+It continues to ask for all sections that are not "all assigned."
 
 At the end, this is the input and output you would see on the console: 
 
@@ -69,4 +69,4 @@ At the end, this is the input and output you would see on the console:
 You can change the ([hw.txt)](https://github.com/pbanuru/Unassigned-Letters/blob/main/hw.txt) to match your needs, as long as it is in the proper form: 
 something section letters
 
-It can handle letter ranges in the letters section. a-c will automatically be translated to abc
+It can handle letter ranges in the letters section. a-c will automatically be translated to abc.
