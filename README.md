@@ -1,3 +1,4 @@
+
 ## Unassigned Problems:
 
 This program ([hwscanner.py](https://github.com/pbanuru/Unassigned-Letters/blob/main/hwscanner.py)) looks at each line in a text file ([hw.txt)](https://github.com/pbanuru/Unassigned-Letters/blob/main/hw.txt), and finds the letters not assigned to the section associated for that line.
@@ -33,8 +34,9 @@ Note, the print is the section and the range of letters from a-l, excluding c, d
 
 It continues to ask for all sections that are not "all assigned"
 
-At the end, this is the output:
-![Output: ](https://github.com/pbanuru/Unassigned-Letters/blob/main/example.jpg)
+At the end, this is the output: 
+
+<img src="https://github.com/pbanuru/Unassigned-Letters/blob/main/example.jpg" width=50% height=50%>
 
 You can change the ([hw.txt)](https://github.com/pbanuru/Unassigned-Letters/blob/main/hw.txt) to match your needs, as long as it is in the proper form: 
 something section letters
